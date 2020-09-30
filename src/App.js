@@ -27,8 +27,6 @@ function App() {
           <Route path='/Team' component={Team} />
           <Route path='/messages' component={Messages} />
           <Route path='/login' component={Login} />
-          
-          
         </Switch>
       </Router>
     </>
